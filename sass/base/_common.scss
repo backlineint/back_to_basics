@@ -1,0 +1,9 @@
+// A simple styling rule that will be applied to our theme.
+body {
+  background-color: lightblue;
+}
+
+// Example to show that autoprefixer is working...
+::placeholder {
+  color: yellow;
+}

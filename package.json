@@ -1,0 +1,17 @@
+{
+  "name": "back_to_basics",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp",
+    "sass": "gulp sass",
+    "sass:watch": "gulp sass:watch"
+  },
+  "author": "Brian Perry",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sass-glob": "^1.0.9"
+  }
+}

@@ -1,0 +1,5 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/back_to_basics.css: {}
